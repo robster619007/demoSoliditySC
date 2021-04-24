@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RGToken.sol": "RGContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RGToken.sol": {
+			"keccak256": "0x9af7423ec1ab7972fcc57252dc8ec8c9de2f1f4fb41063d83a0535b3e3286b90",
+			"urls": [
+				"bzz-raw://db1ee91c170c92bff3d570b69d2f28ad248afe8abf43f2e1d5cdc8ec395167e3",
+				"dweb:/ipfs/QmRV21cKfUNW3QELS3Pw7sqMBXUK84qT6emqw3BY6xV1c1"
+			]
+		}
+	},
+	"version": 1
+}

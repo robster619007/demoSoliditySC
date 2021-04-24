@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "totalSupply",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RGToken.sol": "ERC20Standard"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RGToken.sol": {
+			"keccak256": "0xf219358159cb12ab71de3170f147c3941bbae692f5968ae0f39b3c0c029c1d9e",
+			"urls": [
+				"bzz-raw://52bb091248efd8621758fd7d1d0244cd06a80e0da51bf247900c946e5ed2194c",
+				"dweb:/ipfs/Qme6r2NHujZpDZWAJQ3kkNkzSa4PAu1w3ju3EU9dVsa7JU"
+			]
+		}
+	},
+	"version": 1
+}
